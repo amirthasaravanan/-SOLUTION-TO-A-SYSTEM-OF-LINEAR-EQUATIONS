@@ -23,7 +23,8 @@ print(C)
 ```
 
 ## Output:
-![Screenshot (2002)](https://github.com/user-attachments/assets/322deb9c-bad7-4585-bf53-09a628d8baf6)
+
+![ed ex 1](https://github.com/user-attachments/assets/cb58086c-482a-46dd-8289-faeb56a8b910)
 
 
 ## Result: 
